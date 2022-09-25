@@ -1,1 +1,1 @@
-web: gunicorn OFFICE.wsgi --log-file -
+web: gunicorn office.wsgi --log-file -
